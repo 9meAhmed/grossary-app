@@ -1,6 +1,7 @@
 var groceryList = [
   { name: "Milk 00", quantity: 1 },
   { name: "Bread", quantity: 2 },
+  { name: "Apple Jam", quantity: 2 },
 ];
 
 function renderItem(item, index) {
